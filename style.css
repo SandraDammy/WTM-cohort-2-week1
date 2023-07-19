@@ -32,3 +32,16 @@ a {
   margin-top: 20px;
 }
 
+/* Responsive layout for smaller screens */
+@media screen and (max-width: 600px) {
+    .container {
+      max-width: 100%;
+      padding: 10px;
+    }
+  
+    .profile-image {
+      width: 100%;
+      max-width: 200px;
+    }
+  }
+

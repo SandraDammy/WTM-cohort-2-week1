@@ -44,11 +44,14 @@ a {
     color: #333;
     margin: 30px;
   }
+ .text{
+    border-bottom-style: dotted;
+    border-bottom-color: #007bff;
+  }
 
   .profile-image {
     width: 100%;
     max-width: 200px;
     border-radius: 50%;
-
   }
 }
